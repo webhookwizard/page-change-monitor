@@ -56,4 +56,4 @@ Python · `requests` · BeautifulSoup · Telegram Bot API
 ### 📬 Want it customized?
 
 Email alerts, screenshots on change, JS-rendered pages, multi-user routing — I build these to order.
-**DM [@SaulGoodManC99](https://x.com/SaulGoodManC99)** · 50% deposit, settled in USDT.
+**DM [@WebhookWizard](https://x.com/WebhookWizard)** · 50% deposit, settled in USDT.
